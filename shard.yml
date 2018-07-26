@@ -1,0 +1,13 @@
+name: tcp-svc-test
+version: 0.1.0
+
+authors:
+  - Gitea <gitea@fake.local>
+
+targets:
+  tcp-svc-test:
+    main: src/tcp-svc-test.cr
+
+crystal: 0.25.1
+
+license: MIT
